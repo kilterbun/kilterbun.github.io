@@ -1,0 +1,65 @@
+var DATABASE = `
+
+Home
+  NOTE
+    > <a class="custom-link" href="https://mail.google.com" target="_blank">Mail</a>
+    > <a class="custom-link" href="https://www.dropbox.com/" target="_blank">Dropbox</a>
+    > <a class="custom-link" href="https://paper.dropbox.com/doc/BILLABLE-HOURS-by-day--Bb500Z8EE8ijJqIxg75GX9HpAg-vXkUUkwPReJeXGzgM3Pmi" target="_Blank">Billables</a>
+    > <a class="custom-link" href="https://docs.google.com/spreadsheets/d/1paUgLVksu8sK4QE14e_s_xxk1wMm-LXvfZ7O4GJgF-E/edit#gid=0" target="_Blank">Hours</a>
+  TAGS : links
+
+CAT
+  FILE : cat.gif
+  TYPE : image
+
+Inspo
+  LINK
+    > https://www.behance.net/
+    > https://www.dribbble.com/
+    > https://www.pinterest.com/
+    > https://www.awwwards.com/
+    > https://www.workbook.com/portfolios/
+    > https://blenderartists.org/
+    > https://www.blendernation.com/
+  TAGS : links
+
+Blogs
+  LINK
+    > https://abduzeedo.com/
+    > https://80.lv/
+    > https://eyeondesign.aiga.org/
+    > https://www.typewolf.com/
+    > https://www.thedieline.com/
+    > https://design-milk.com/
+    > https://www.midnightumbrella.com/vernacular-circles/
+    > https://postsecret.com/
+    > https://cardboardamerica.org/
+    > https://fieldnotesbrand.com/from-seed/
+  TAGS : links
+
+Type
+  LINK
+    > https://www.rsztype.com/
+    > https://www.milieugrotesque.com/
+    > http://velvetyne.fr/
+    > https://www.grillitype.com/
+    > https://www.superiortype.com/
+    > https://abcdinamo.com/
+    > https://commercialtype.com/
+    > https://www.outofthedark.xyz/
+    > https://www.a2-type.co.uk/
+    > https://typefaces.pizza/
+    > https://www.sudtipos.com/
+    > https://www.kernclub.com/shop/
+    > https://www.brethrendesignco.com/shop/
+    > https://www.mightyshort.com/shop
+    > https://www.youworkforthem.com/
+    > https://goodtypefoundry.com/
+  TAGS : links
+
+Climb
+  LINK
+    > https://gripped.com/
+    > https://www.climbing.com/
+    > https://latticetraining.com/blog/
+`
