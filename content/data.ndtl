@@ -6,11 +6,12 @@ Home
     > <a class="custom-link" href="https://www.dropbox.com/" target="_blank">Dropbox</a>
     > <a class="custom-link" href="https://paper.dropbox.com/doc/BILLABLE-HOURS-by-day--Bb500Z8EE8ijJqIxg75GX9HpAg-vXkUUkwPReJeXGzgM3Pmi" target="_Blank">Billables</a>
     > <a class="custom-link" href="https://docs.google.com/spreadsheets/d/1paUgLVksu8sK4QE14e_s_xxk1wMm-LXvfZ7O4GJgF-E/edit#gid=0" target="_Blank">Hours</a>
-  TAGS : links
+  TAGS : links, work
 
 CAT
   FILE : cat.gif
   TYPE : image
+  TAGS : work
 
 Inspo
   LINK
@@ -21,7 +22,7 @@ Inspo
     > https://www.workbook.com/portfolios/
     > https://blenderartists.org/
     > https://www.blendernation.com/
-  TAGS : links
+  TAGS : links, work
 
 Blogs
   LINK
@@ -35,7 +36,7 @@ Blogs
     > https://postsecret.com/
     > https://cardboardamerica.org/
     > https://fieldnotesbrand.com/from-seed/
-  TAGS : links
+  TAGS : links, work
 
 Type
   LINK
@@ -55,11 +56,34 @@ Type
     > https://www.mightyshort.com/shop
     > https://www.youworkforthem.com/
     > https://goodtypefoundry.com/
-  TAGS : links
+  TAGS : links, work
 
 Climb
   LINK
     > https://gripped.com/
     > https://www.climbing.com/
     > https://latticetraining.com/blog/
+  TAGS : links
+
+Cheat
+  TERM
+    > LINK: a clickable link
+    > TYPE: the memex type, can be tool, podcast, list, music, article, book, video, lecture, image, quote, note, term, game, encyclopedia... Trackable on the left bar
+    > DATE: a date, can be anything
+    > TAGS: words separated by commas, trackable on the left bar
+    > QOTE: a quote
+    > AUTH: the author
+    > FILE: can be a file link or an image to be shown
+    > PROJ: a project, visible on the left bar
+    > NOTE: a note, for example description etc.
+    > TERM: the term described
+    > PERS: a person
+    > REVI: a revision
+    > SRCE: the source
+  TAGS : notes
+
+Music
+  NOTE
+    > <s>Test</s>
+  TAGS : notes
 `
