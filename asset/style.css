@@ -176,6 +176,11 @@ nav::-webkit-scrollbar {
 	width: 100%;
   float: left;
 }
+
+.nav-itemgroup:nth-child(2), .nav-itemgroup:nth-child(3), .nav-itemgroup:nth-child(4) {
+  display: none;
+}
+
 .nav-item {
   padding-bottom: calc(var(--size-menu-item-sepv) / 2);
 	padding-top: calc(var(--size-menu-item-sepv) / 2);
@@ -465,14 +470,14 @@ article:hover .article-linktitle {
   width: 30px;
   padding-left: 10px;
 }
-/*.article-image*/ .article-typeicon {
+/*.article-image*/ .article-typeicon, .article-typecontainer .article-type {
   display: none !important;
 }
 .article-image:hover .article-typeicon  {
   display: initial;
   color: var(--color-image);
 }
-.article-typeicon {
+.article-typeicon{
   opacity: var(--alpha-idleicon);
 }
 article:hover .article-typeicon {
