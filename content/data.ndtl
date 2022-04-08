@@ -65,6 +65,23 @@ Climb
     > https://latticetraining.com/blog/
   TAGS : links
 
+Music
+  WIDE : true
+  NOTE
+    > Acid Bath - WTKSP | <s>Digi</s> | Disc
+    > Against All Logic - 2012-2017 | <s>Digi</s> | Disc
+    > Aphex Twin - Druqs | <s>Digi</s> | <s>Disc</s>
+    > Aphex Twin - Selected Ambient 1 | <s>Digi</s> | Disc
+    > Aphex Twin - Selected Ambient 2 | <s>Digi</s> | <s>Disc</s>
+    > Boris - Akuma no Uta | <s>Digi</s> | <s>Disc</s>
+    > Boris - Feedbacker | <s>Digi</s> | Disc
+    > Boris - Pink | <s>Digi</s> | Disc
+    > Boris - Rainbow | <s>Digi</s> | <s>Disc</s>
+    > Drowse - Light Mirror | <s>Digi</s> | Disc
+    > Elizabeth Colour Wheel - Queen Tired | <s>Digi</s> | Disc
+    ...
+  TAGS : notes
+
 Cheat
   TERM
     > LINK: a clickable link
@@ -80,10 +97,5 @@ Cheat
     > PERS: a person
     > REVI: a revision
     > SRCE: the source
-  TAGS : notes
-
-Music
-  NOTE
-    > <s>Test</s>
   TAGS : notes
 `
