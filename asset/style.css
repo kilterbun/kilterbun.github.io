@@ -465,8 +465,8 @@ article:hover .article-linktitle {
   width: 30px;
   padding-left: 10px;
 }
-.article-image .article-typeicon {
-  display: none;
+/*.article-image*/ .article-typeicon {
+  display: none !important;
 }
 .article-image:hover .article-typeicon  {
   display: initial;
