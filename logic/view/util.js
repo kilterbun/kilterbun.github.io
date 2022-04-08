@@ -11,7 +11,7 @@ function Util()
   this.getIcon = function(type)
   {
     let icon = '';
-    switch (type) 
+    switch (type)
     {
         case 'article': icon = 'far fa-newspaper'; break;
         case 'podcast': icon = 'fas fa-podcast'; break;
@@ -26,7 +26,7 @@ function Util()
         case 'music': icon = 'fas fa-music'; break;
         case 'image': icon = 'fas fa-image'; break;
         case 'encyclopedia': icon = 'fas fa-globe'; break;
-        case 'term': icon = 'fas fa-ribbon'; break;
+        case 'term': icon = 'fas fa-music'; break;
         case 'note': icon = 'fas fa-sticky-note'; break;
         case 'inspiration': icon = 'fas fa-star'; break;
         case 'date': icon = 'fas fa-clock'; break;
@@ -86,8 +86,8 @@ function Util()
     arrLen = splitArr.length;
 
     // extracting the root domain here
-    // if there is a subdomain 
-    if (arrLen > 2) 
+    // if there is a subdomain
+    if (arrLen > 2)
     {
       domain = splitArr[arrLen - 2] + '.' + splitArr[arrLen - 1];
       // check to see if it's using a Country Code Top Level Domain (ccTLD) (i.e. ".me.uk")

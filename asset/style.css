@@ -744,3 +744,18 @@ article:hover .article-taglink:hover {
   color: var(--color-page-e);
   text-decoration: none;
 }
+
+/*-- Custom Stuff --*/
+s {
+  text-decoration: none;
+}
+
+s::before {
+  content: "\00a0";
+  border-top: 1px solid white;
+  width: 31px;
+  height: 1px;
+  color: 0;
+  position: absolute;
+  transform: translateY(9px) !important;
+}

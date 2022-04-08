@@ -44,7 +44,7 @@ function Nav()
     }
 
     navContent += `<div class="nav-itemgroup">`;
-    for (let ty = 0; ty < Math.min(value.types.length, SETTINGS.STATSNUMTYPE); ty++) 
+    for (let ty = 0; ty < Math.min(value.types.length, SETTINGS.STATSNUMTYPE); ty++)
     {
       const type = value.types[ty][0];
       const count = value.types[ty][1];
@@ -62,7 +62,7 @@ function Nav()
     {
       navContent += `<a href='#term' class="nav-item">`;
       navContent += `<div class="nav-itemcount">${value.terms}</div>`;
-      navContent += `<i title="terms" class="nav-itemicon fas fa-ribbon"></i>`;
+      navContent += `<i title="terms" class="nav-itemicon fas fa-music"></i>`;
       navContent += `</a>`;
     }
     navContent += `</div>`;
@@ -73,7 +73,7 @@ function Nav()
     {
       navContent += `<div class="nav-tagcontainer">`;
       navContent += `<i title="tags" class="nav-tagicon fas fa-tag"></i>`;
-      for (var t = 0; t < Math.min(value.tags.length, SETTINGS.STATSNUMTAGS); t++) 
+      for (var t = 0; t < Math.min(value.tags.length, SETTINGS.STATSNUMTAGS); t++)
       {
         navContent += `<a class="nav-tag" href='#tag-${value.tags[t][0]}'>`;
         navContent += `<div class="nav-tagcount">${value.tags[t][1]}</div>`;

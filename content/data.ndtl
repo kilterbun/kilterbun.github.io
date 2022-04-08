@@ -67,7 +67,7 @@ Climb
 
 Music
   WIDE : true
-  NOTE
+  TERM
     > Acid Bath - WTKSP | <s>Digi</s> | Disc
     > Against All Logic - 2012-2017 | <s>Digi</s> | Disc
     > Aphex Twin - Druqs | <s>Digi</s> | <s>Disc</s>
@@ -83,7 +83,7 @@ Music
   TAGS : notes
 
 Cheat
-  TERM
+  NOTE
     > LINK: a clickable link
     > TYPE: the memex type, can be tool, podcast, list, music, article, book, video, lecture, image, quote, note, term, game, encyclopedia... Trackable on the left bar
     > DATE: a date, can be anything
